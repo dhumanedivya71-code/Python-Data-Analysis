@@ -1,0 +1,16 @@
+Name,Subject,Marks,Attendance
+Amit,Python,85,92
+Divya,Python,91,95
+Rahul,Python,76,88
+Sneha,Python,89,91
+Karan,Python,,85
+Amit,C++,78,90
+Divya,C++,94,96
+Rahul,C++,72,82
+Sneha,C++,88,89
+Karan,C++,65,80
+Amit,Data Science,82,91
+Divya,Data Science,96,98
+Rahul,Data Science,74,85
+Sneha,Data Science,90,93
+Karan,Data Science,68,
